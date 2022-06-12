@@ -1,0 +1,17 @@
+{
+  "release-type": "helm",
+  "packages": {
+    "base-chart-1": {
+      "bump-minor-pre-major": true,
+      "bump-patch-for-minor-pre-major": true
+    },
+    "base-chart-2": {
+      "bump-minor-pre-major": true,
+      "bump-patch-for-minor-pre-major": true
+    },
+    "base-chart-3": {
+      "bump-minor-pre-major": true,
+      "bump-patch-for-minor-pre-major": true
+    }
+  }
+}

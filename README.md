@@ -1,0 +1,1 @@
+# helm-auto-release-test
