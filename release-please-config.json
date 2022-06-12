@@ -1,6 +1,5 @@
 {
   "release-type": "helm",
-  "release-as": "0.0.1",
   "packages": {
     "base-chart-1": {
       "bump-minor-pre-major": true,
