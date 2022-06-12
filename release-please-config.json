@@ -1,0 +1,8 @@
+{
+  "release-type": "helm",
+  "packages": {
+    "base-chart-1": {},
+    "base-chart-2": {},
+    "base-chart-3": {}
+  }
+}
