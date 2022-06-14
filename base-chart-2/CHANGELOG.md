@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.1.0](https://github.com/jycamier/helm-auto-release-test/compare/base-chart-2-v0.0.1...base-chart-2-v0.1.0) (2022-06-14)
+
+
+### ⚠ BREAKING CHANGES
+
+* HPA is enabled by default so be carefull about your fpm metrics
+
+### Features
+
+* HPA is enabled by default ([#17](https://github.com/jycamier/helm-auto-release-test/issues/17)) ([5f006d2](https://github.com/jycamier/helm-auto-release-test/commit/5f006d28eb7566751efd5cdcd07a1fc21477377a))
+* update request CPU to 200m ([#14](https://github.com/jycamier/helm-auto-release-test/issues/14)) ([2a13bb4](https://github.com/jycamier/helm-auto-release-test/commit/2a13bb4e5f7cec84b32cc9b1f42f5fabb8f69492))
+
 ## 0.0.1 (2022-06-12)
 
 
