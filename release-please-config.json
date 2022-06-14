@@ -1,5 +1,6 @@
 {
   "release-type": "helm",
+  "separate-pull-requests": true,
   "packages": {
     "base-chart-1": {
       "bump-minor-pre-major": true,
