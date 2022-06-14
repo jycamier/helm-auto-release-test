@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.0.2](https://github.com/jycamier/helm-auto-release-test/compare/base-chart-1-v0.0.1...base-chart-1-v0.0.2) (2022-06-14)
+
+
+### Features
+
+* **deps:** helm values traefik/whoami to v1.8.0 ([#12](https://github.com/jycamier/helm-auto-release-test/issues/12)) ([2825cc7](https://github.com/jycamier/helm-auto-release-test/commit/2825cc7c66fde53eff7131a28d526afd8e0f932b))
+* update request CPU to 200m ([#14](https://github.com/jycamier/helm-auto-release-test/issues/14)) ([2a13bb4](https://github.com/jycamier/helm-auto-release-test/commit/2a13bb4e5f7cec84b32cc9b1f42f5fabb8f69492))
+
 ## 0.0.1 (2022-06-12)
 
 
