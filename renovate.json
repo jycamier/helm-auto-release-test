@@ -6,6 +6,7 @@
     {
       "matchManagers": ["helmfile"],
       "commitMessagePrefix": "chore(helmfile/renovate): ",
+      "sourceUrlTemplate": "https://github.com/jycamier/helm-auto-release-test",
       "addLabels": ["helm", "dependencies"]
     }
   ]
