@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.1.1](https://github.com/jycamier/helm-auto-release-test/compare/base-chart-2-v0.1.0...base-chart-2-v0.1.1) (2022-06-19)
+
+
+### Features
+
+* **autoscaling:** maxReplicas default to 200 ([#20](https://github.com/jycamier/helm-auto-release-test/issues/20)) ([88d34b7](https://github.com/jycamier/helm-auto-release-test/commit/88d34b73bc824002e338f1678ad0ecf00d74ea4d))
+* **ingress:** add nginx annotations ([#22](https://github.com/jycamier/helm-auto-release-test/issues/22)) ([2c8b2be](https://github.com/jycamier/helm-auto-release-test/commit/2c8b2be4638f457b94736ac100686118879aded9))
+
 ## [0.1.0](https://github.com/jycamier/helm-auto-release-test/compare/base-chart-2-v0.0.1...base-chart-2-v0.1.0) (2022-06-14)
 
 
