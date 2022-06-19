@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.0.3](https://github.com/jycamier/helm-auto-release-test/compare/base-chart-1-v0.0.2...base-chart-1-v0.0.3) (2022-06-19)
+
+
+### Miscellaneous Chores
+
+* **deps:** update helm values traefik/whoami to v1.8.1 ([#18](https://github.com/jycamier/helm-auto-release-test/issues/18)) ([f27784c](https://github.com/jycamier/helm-auto-release-test/commit/f27784ccd48f272c6552a426a6539324a2b67329))
+
 ## [0.0.2](https://github.com/jycamier/helm-auto-release-test/compare/base-chart-1-v0.0.1...base-chart-1-v0.0.2) (2022-06-14)
 
 
