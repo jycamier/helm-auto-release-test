@@ -5,7 +5,6 @@
   "packageRules": [
     {
       "matchManagers": ["helmfile"],
-      "sourceUrlTemplate": "https://github.com/jycamier/helm-auto-release-test",
       "commitMessagePrefix": "chore(helmfile/renovate): ",
       "addLabels": ["helm", "dependencies"]
     }
