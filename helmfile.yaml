@@ -1,0 +1,14 @@
+helmBinary: helm3
+
+repositories:
+  - name: helm-auto-release-test
+    url: ghcr.io/jycamier/helm-auto-release-test
+    oci: true
+
+releases:
+  - name: test-1
+    chart: helm-auto-release-test/base-chart-1
+    version: 0.0.0
+  - name: test-2
+    chart: helm-auto-release-test/base-chart-2
+    version: 0.0.0
