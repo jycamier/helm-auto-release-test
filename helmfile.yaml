@@ -11,4 +11,4 @@ releases:
     version: 0.0.0
   - name: test-2
     chart: helm-auto-release-test/base-chart-2
-    version: 0.0.0
+    version: 0.1.1
