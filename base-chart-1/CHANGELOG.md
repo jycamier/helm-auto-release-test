@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.0.4](https://github.com/jycamier/helm-auto-release-test/compare/base-chart-1-v0.0.3...base-chart-1-v0.0.4) (2023-02-20)
+
+
+### Performance Improvements
+
+* test perf ([d85bc31](https://github.com/jycamier/helm-auto-release-test/commit/d85bc31b4498f1589224505a0c509ff5ea45cd32))
+
+
+### Reverts
+
+* test revert ([9a65a1b](https://github.com/jycamier/helm-auto-release-test/commit/9a65a1be75149136bedc4895aad6f7d611bfc70d))
+
 ## [0.0.3](https://github.com/jycamier/helm-auto-release-test/compare/base-chart-1-v0.0.2...base-chart-1-v0.0.3) (2022-06-19)
 
 
