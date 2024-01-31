@@ -1,7 +1,7 @@
 FROM ubuntu:22.04 AS builder
 
 # renovate: datasource=github-releases depName=pgbouncer/pgbouncer versioning=regex:^.*_?(?<major>\d+)\_(?<minor>\d+)\_(?<patch>\d+)?$
-ENV PGBOUNCER_VERSION="pgbouncer_1_19_0"
+ENV PGBOUNCER_VERSION="pgbouncer_1_22_0"
 
 RUN apt update && apt install -y \
     pkg-config autoconf autoconf-doc automake gcc \
